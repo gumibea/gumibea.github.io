@@ -6,7 +6,7 @@
   <link href="https://blog.dwcf.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.dwcf.moe/"/>
-  <updated>2021-03-13T13:08:16.334Z</updated>
+  <updated>2021-03-13T14:10:30.883Z</updated>
   <id>https://blog.dwcf.moe/</id>
   
   <author>
@@ -17,18 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>大转盘</title>
+    <link href="https://blog.dwcf.moe/%E5%A4%A7%E8%BD%AC%E7%9B%98/"/>
+    <id>https://blog.dwcf.moe/%E5%A4%A7%E8%BD%AC%E7%9B%98/</id>
+    <published>2021-03-13T13:44:18.000Z</published>
+    <updated>2021-03-13T14:10:30.883Z</updated>
+    
+    <content type="html"><![CDATA[<p>等待更新ing….</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;等待更新ing….&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="转盘" scheme="https://blog.dwcf.moe/tags/%E8%BD%AC%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>ID填写</title>
     <link href="https://blog.dwcf.moe/ID/"/>
     <id>https://blog.dwcf.moe/ID/</id>
     <published>2021-03-13T10:10:51.000Z</published>
-    <updated>2021-03-13T13:08:16.334Z</updated>
+    <updated>2021-03-13T13:49:48.837Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/ID/dddd.jpg" alt="懂的都懂"><br><br><br>在评论里留下自己的ID，等到晚上会统一拉进团。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/ID/dddd.jpg" alt="懂的都懂"><br><br><br>在评论里留下自己的ID，等到晚上会统一拉进团</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/ID/dddd.jpg&quot; alt=&quot;懂的都懂&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;在评论里留下自己的ID，等到晚上会统一拉进团。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/ID/dddd.jpg&quot; alt=&quot;懂的都懂&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;在评论里留下自己的ID，等到晚上会统一拉进团&lt;/p&gt;
 </summary>
       
     
@@ -37,7 +60,7 @@
     <category term="GBF" scheme="https://blog.dwcf.moe/categories/GBF/"/>
     
     
-    <category term="骑空团" scheme="https://blog.dwcf.moe/tags/%E9%AA%91%E7%A9%BA%E5%9B%A2/"/>
+    <category term="骑空团事务" scheme="https://blog.dwcf.moe/tags/%E9%AA%91%E7%A9%BA%E5%9B%A2%E4%BA%8B%E5%8A%A1/"/>
     
   </entry>
   
