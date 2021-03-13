@@ -8,7 +8,7 @@ on:
 env:
   GIT_USER: gumibea
   GIT_EMAIL: yayoi_kon@icloud.com
-  THEME_REPO: gumibea/gumibea.github.io
+  THEME_REPO: cofess/hexo-theme-pure
   THEME_BRANCH: master
   DEPLOY_REPO: gumibea/gumibea.github.io
   DEPLOY_BRANCH: gh-pages
@@ -24,24 +24,24 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout
 
       - name: Checkout theme repo
-        uses: actions/checkout@v2
+        uses: actions/checkout
         with:
           repository: ${{ env.THEME_REPO }}
           ref: ${{ env.THEME_BRANCH }}
           path: themes/pure
 
       - name: Checkout deploy repo
-        uses: actions/checkout@v2
+        uses: actions/checkout
         with:
           repository: ${{ env.DEPLOY_REPO }}
           ref: ${{ env.DEPLOY_BRANCH }}
           path: .deploy_git
 
       - name: Use Node.js ${{ matrix.node_version }}
-        uses: actions/setup-node@v1
+        uses: actions/setup-node
         with:
           node-version: ${{ matrix.node_version }}
 
