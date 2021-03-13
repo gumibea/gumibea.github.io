@@ -10,7 +10,7 @@ env:
   GIT_EMAIL: yayoi_kon@icloud.com
   THEME_REPO: gumibea/gumibea.github.io
   THEME_BRANCH: master
-  DEPLOY_REPO: sanonz/sanonz.github.io
+  DEPLOY_REPO: gumibea/gumibea.github.io
   DEPLOY_BRANCH: gh-pages
 
 jobs:
