@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DWCF</title>
+  
+  
+  <link href="https://blog.dwcf.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.dwcf.moe/"/>
+  <updated>2021-03-13T12:28:12.273Z</updated>
+  <id>https://blog.dwcf.moe/</id>
+  
+  <author>
+    <name>NatsukiKon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ID填写</title>
+    <link href="https://blog.dwcf.moe/ID/"/>
+    <id>https://blog.dwcf.moe/ID/</id>
+    <published>2021-03-13T10:10:51.000Z</published>
+    <updated>2021-03-13T12:28:12.273Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/ID/dddd.jpg" alt="懂的都懂"><br><br><br>在评论里留下自己的ID，等到晚上会统一拉进团。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/ID/dddd.jpg&quot; alt=&quot;懂的都懂&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;在评论里留下自己的ID，等到晚上会统一拉进团。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="GBF" scheme="https://blog.dwcf.moe/categories/GBF/"/>
+    
+    
+    <category term="骑空团" scheme="https://blog.dwcf.moe/tags/%E9%AA%91%E7%A9%BA%E5%9B%A2/"/>
+    
+  </entry>
+  
+</feed>
