@@ -28,8 +28,8 @@ menu:
   friends: /friends/
   sites:
     submenu: true
-    author: https://candinya.com
-    project: https://github.com/Candinya/Kratos-Rebirth
+    author: https://私はjkです.live/
+    project: https://github.com/gumibea/gumibea.github.io
 
 label:
   index: <i class="fa fa-home"></i>首页
@@ -45,14 +45,14 @@ group_link:
 contact:
   weibo: 
   mail: 
-  telegram: CandyUnion
+  telegram: gumibea
   twitter: 
   facebook: 
   linkedin: 
   fediverse:
-    instance: nya.one
-    username: Candinya
-  github: Candinya
+    instance: 
+    username: 
+  github: gumibea
   rss:
 timenotice: 本站已运行
 icp: 
@@ -144,7 +144,7 @@ widgets:
 - category
 - tagcloud
 - posts
-avatarUri: /images/avatar.webp
+avatarUri: /images/avatar.png
 mobile_toc: 
   hide: false
   hide_id: false
