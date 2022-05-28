@@ -130,9 +130,9 @@ aplayer:
   enabled: true
   playlist: 
   meting:
-    server: netease
+    server: tencent
     type: playlist
-    id: 3204190542
+    id: 7363565771
   order: random
 
 # Widgets 侧边栏小挂件
