@@ -133,7 +133,7 @@ aplayer:
     server: tencent
     type: playlist
     id: 7363565771
-  order: random
+  order: list
 
 # Widgets 侧边栏小挂件
 sidebar: right
