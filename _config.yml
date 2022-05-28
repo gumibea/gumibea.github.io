@@ -8,7 +8,7 @@ subtitle: ''
 description: '一片自留地'
 keywords:
 author: まひる
-language: zh
+language: zh-Hans
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -98,13 +98,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-remote_theme: hexojs/hexo-theme-landscape
+theme: kratos-rebirth
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-
-# Favicon
-theme_config:
-  favicon: image/favicon.png
+  type: 'git'
+  repo: "https://github.com/gumibea/gumibea.github.io"
+  branch: gh-pages
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
